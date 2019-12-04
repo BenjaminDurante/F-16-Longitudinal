@@ -2,11 +2,11 @@
 Linearization and nonlinear simulation of unstable F-16 Aircraft.
 MATLAB R2015, FlightGear V3.0
 
-The equations of motion for longitudinal aircraft dynamics are obtained
-Then, a nonlinear simulation is developed using Simulink Lookup Tables
-Next, a linearized model is developed and stability derivatves are calculated with Simulink
-Finally, a PID MIMO State Space model is developed to maintain a steady glide path and speed for landing at an airport
-The landing simulation is performed at YUL - Montreal Trudeau
+The equations of motion for longitudinal aircraft dynamics are obtained.
+Then, a nonlinear simulation is developed using Simulink Lookup Tables.
+Next, a linearized model is developed and stability derivatves are calculated with Simulink.
+Finally, a PID MIMO State Space model is developed to maintain a steady glide path and speed for landing at an airport.
+The landing simulation is performed at YUL - Montreal Trudeau.
 
 The F-16 Aerodynamic Data is obtained from:
 https://dept.aem.umn.edu/~balas/darpa_sec/SEC.Accom.html
