@@ -110,9 +110,3 @@ XE_0 = 0;
 
 %runway heading (deg)
 h = 57.3;
-
-
-
-
-
-
